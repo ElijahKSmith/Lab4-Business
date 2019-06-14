@@ -1,4 +1,7 @@
 # Lab4-Business
+by @SquidThePrinter and @pangtsu
+
+
 ## Project
 The project is a Linux distribution designed for gaming. It will primarily be focused on optimization of a computer's resources in order to allow for fast and efficient use of resources to make gaming possible effectively on Linux. Software such as Wine, Steam, and PlayOnLinux will come standard with the installation of the operating system. A prime focus of the operating system would be to figure out the maximum compatability of Windows-based gaming software with the system, as Windows is currently the largest operating system used for gaming which most games are typically designed for. By figuring out a solution to this it will enable this operating system to be used by PC gamers everywhere with the benefits of a Linux operating system and the gaming possibilities of a Windows operating system.
 
